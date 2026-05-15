@@ -3,3 +3,9 @@ zmk/
 modules/
 tools/
 .west/
+__pycache__/
+*.pyc
+.venv/
+*.uf2
+*.hex
+*.bin
